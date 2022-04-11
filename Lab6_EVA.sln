@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_EVA", "Lab6_EVA\Lab6_EVA.csproj", "{2B7CECCA-605D-4D59-B52D-EE6AB14BEE70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B7CECCA-605D-4D59-B52D-EE6AB14BEE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7CECCA-605D-4D59-B52D-EE6AB14BEE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7CECCA-605D-4D59-B52D-EE6AB14BEE70}.Debug|x64.ActiveCfg = Debug|x64
+		{2B7CECCA-605D-4D59-B52D-EE6AB14BEE70}.Debug|x64.Build.0 = Debug|x64
+		{2B7CECCA-605D-4D59-B52D-EE6AB14BEE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7CECCA-605D-4D59-B52D-EE6AB14BEE70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7CECCA-605D-4D59-B52D-EE6AB14BEE70}.Release|x64.ActiveCfg = Release|x64
+		{2B7CECCA-605D-4D59-B52D-EE6AB14BEE70}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {616A957B-5451-4840-9D53-2AA634F906A0}
+	EndGlobalSection
+EndGlobal
