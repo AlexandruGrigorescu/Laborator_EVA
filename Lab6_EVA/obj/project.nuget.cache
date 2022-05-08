@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BgPAkEmgrME1MqEpweGVmmlzuEL+GIacPZi2BO41zVAvE/j7bXH25Fjc3e4nFZl/QPli+88Vq8ufsZp2bPWRlg==",
+  "dgSpecHash": "lGa+AJZVCBNt2tKplJbH0KQzfJNZJNWOW4E/6FcaZH3MfGnKY+wmeZpmXkawS07PzYJTAfquosu8AjRqGoocOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Lab6_EVA\\Lab6_EVA\\Lab6_EVA.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\GitHub\\Laborator_EVA\\Lab6_EVA\\Lab6_EVA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\emgu.cv\\4.5.5.4823\\emgu.cv.4.5.5.4823.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\emgu.cv.bitmap\\4.5.5.4823\\emgu.cv.bitmap.4.5.5.4823.nupkg.sha512",

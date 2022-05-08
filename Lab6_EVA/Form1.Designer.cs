@@ -46,12 +46,21 @@
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.button7 = new System.Windows.Forms.Button();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.button8 = new System.Windows.Forms.Button();
+            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.button9 = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.button10 = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -173,14 +182,14 @@
             // 
             this.pictureBox5.Location = new System.Drawing.Point(12, 331);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(630, 368);
+            this.pictureBox5.Size = new System.Drawing.Size(297, 233);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox5.TabIndex = 12;
             this.pictureBox5.TabStop = false;
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(12, 705);
+            this.textBox4.Location = new System.Drawing.Point(12, 582);
             this.textBox4.Multiline = true;
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(100, 31);
@@ -188,7 +197,7 @@
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(130, 705);
+            this.button6.Location = new System.Drawing.Point(118, 581);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(191, 32);
             this.button6.TabIndex = 14;
@@ -198,16 +207,16 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Location = new System.Drawing.Point(660, 331);
+            this.pictureBox6.Location = new System.Drawing.Point(325, 331);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(630, 368);
+            this.pictureBox6.Size = new System.Drawing.Size(317, 233);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox6.TabIndex = 15;
             this.pictureBox6.TabStop = false;
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(660, 705);
+            this.textBox5.Location = new System.Drawing.Point(325, 582);
             this.textBox5.Multiline = true;
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(100, 31);
@@ -215,7 +224,7 @@
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(766, 705);
+            this.button7.Location = new System.Drawing.Point(451, 582);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(191, 32);
             this.button7.TabIndex = 17;
@@ -223,11 +232,82 @@
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Location = new System.Drawing.Point(661, 335);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(660, 351);
+            this.pictureBox7.TabIndex = 18;
+            this.pictureBox7.TabStop = false;
+            // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(661, 703);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(176, 43);
+            this.button8.TabIndex = 19;
+            this.button8.Text = "button8";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
+            // numericUpDown1
+            // 
+            this.numericUpDown1.Location = new System.Drawing.Point(856, 714);
+            this.numericUpDown1.Name = "numericUpDown1";
+            this.numericUpDown1.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDown1.TabIndex = 20;
+            // 
+            // button9
+            // 
+            this.button9.Location = new System.Drawing.Point(1005, 703);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(153, 46);
+            this.button9.TabIndex = 21;
+            this.button9.Text = "button9";
+            this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(1190, 716);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(44, 16);
+            this.label1.TabIndex = 22;
+            this.label1.Text = "label1";
+            // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(13, 292);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(140, 23);
+            this.button10.TabIndex = 23;
+            this.button10.Text = "Blend Images";
+            this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
+            // 
+            // button11
+            // 
+            this.button11.Location = new System.Drawing.Point(661, 752);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(129, 29);
+            this.button11.TabIndex = 24;
+            this.button11.Text = "Write to video";
+            this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1355, 745);
+            this.ClientSize = new System.Drawing.Size(1340, 788);
+            this.Controls.Add(this.button11);
+            this.Controls.Add(this.button10);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.button9);
+            this.Controls.Add(this.numericUpDown1);
+            this.Controls.Add(this.button8);
+            this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.pictureBox6);
@@ -248,12 +328,15 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -279,6 +362,13 @@
         private System.Windows.Forms.PictureBox pictureBox6;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.Button button9;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button button11;
     }
 }
 

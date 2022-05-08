@@ -922,11 +922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Lab6_EVA\\Lab6_EVA\\Lab6_EVA.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\GitHub\\Laborator_EVA\\Lab6_EVA\\Lab6_EVA.csproj",
       "projectName": "Lab6_EVA",
-      "projectPath": "C:\\Users\\Alex\\source\\repos\\Lab6_EVA\\Lab6_EVA\\Lab6_EVA.csproj",
+      "projectPath": "C:\\Users\\Alex\\Documents\\GitHub\\Laborator_EVA\\Lab6_EVA\\Lab6_EVA.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\source\\repos\\Lab6_EVA\\Lab6_EVA\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\GitHub\\Laborator_EVA\\Lab6_EVA\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
