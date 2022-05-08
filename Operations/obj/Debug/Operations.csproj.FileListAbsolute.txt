@@ -1,0 +1,24 @@
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\bin\Debug\Operations.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\bin\Debug\Operations.pdb
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\bin\Debug\Emgu.CV.Bitmap.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\bin\Debug\Newtonsoft.Json.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\bin\Debug\System.Drawing.Common.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\obj\Debug\Operations.csproj.AssemblyReference.cache
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\obj\Debug\Operations.csproj.CopyComplete
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\obj\Debug\Operations.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Operations\obj\Debug\Operations.pdb
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\bin\Debug\Operations.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\bin\Debug\Operations.pdb
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\bin\Debug\System.Drawing.Common.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\obj\Debug\Operations.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\obj\Debug\Operations.csproj.CopyComplete
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\obj\Debug\Operations.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Operations\obj\Debug\Operations.pdb

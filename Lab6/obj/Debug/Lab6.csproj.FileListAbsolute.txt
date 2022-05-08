@@ -1,0 +1,36 @@
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\Debug\Lab6.exe.config
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\Debug\Lab6.exe
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\Debug\Lab6.pdb
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\Debug\Emgu.CV.Bitmap.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\Debug\Newtonsoft.Json.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\Debug\System.Drawing.Common.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\Debug\Lab6.Form1.resources
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\Debug\Lab6.exe
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\Debug\Lab6.exe
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\Debug\System.Drawing.Common.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\Debug\Operations.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\Debug\Operations.pdb
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\Debug\Lab6.Form1.resources
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\Debug\Lab6.exe
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\Debug\Lab6.pdb

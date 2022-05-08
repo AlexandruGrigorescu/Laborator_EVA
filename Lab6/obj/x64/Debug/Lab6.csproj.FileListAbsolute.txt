@@ -1,0 +1,114 @@
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\Lab6.exe.config
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\Lab6.exe
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\Lab6.pdb
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\Emgu.CV.Bitmap.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\cvextern.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\opencv_videoio_ffmpeg455_64.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\concrt140.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\msvcp140.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\msvcp140_1.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\msvcp140_2.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\msvcp140_atomic_wait.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\msvcp140_codecvt_ids.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\vcruntime140.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\vcruntime140_1.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\Newtonsoft.Json.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\bin\x64\Debug\System.Drawing.Common.dll
+D:\an3sem2\Editare audio-video\Lab6\Lab6\obj\x64\Debug\Lab6.csproj.AssemblyReference.cache
+D:\an3sem2\Editare audio-video\Lab6\Lab6\obj\x64\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+D:\an3sem2\Editare audio-video\Lab6\Lab6\obj\x64\Debug\Lab6.Form1.resources
+D:\an3sem2\Editare audio-video\Lab6\Lab6\obj\x64\Debug\Lab6.Properties.Resources.resources
+D:\an3sem2\Editare audio-video\Lab6\Lab6\obj\x64\Debug\Lab6.csproj.GenerateResource.cache
+D:\an3sem2\Editare audio-video\Lab6\Lab6\obj\x64\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\an3sem2\Editare audio-video\Lab6\Lab6\obj\x64\Debug\Lab6.csproj.CopyComplete
+D:\an3sem2\Editare audio-video\Lab6\Lab6\obj\x64\Debug\Lab6.exe
+D:\an3sem2\Editare audio-video\Lab6\Lab6\obj\x64\Debug\Lab6.pdb
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Lab6.exe.config
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Lab6.exe
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Lab6.pdb
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Bitmap.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\cvextern.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\opencv_videoio_ffmpeg455_64.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\concrt140.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\msvcp140.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\msvcp140_1.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\msvcp140_2.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\msvcp140_atomic_wait.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\msvcp140_codecvt_ids.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\vcruntime140.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\vcruntime140_1.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Newtonsoft.Json.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\System.Drawing.Common.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.AssemblyReference.cache
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.Form1.resources
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.Properties.Resources.resources
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.GenerateResource.cache
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CopyComplete
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.exe
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.pdb
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Operations.dll
+D:\an3sem2\Editare audio-video\lab-editare\lab-editare\Lab6\bin\x64\Debug\Operations.pdb
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\Lab6.exe.config
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\Lab6.exe
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\Lab6.pdb
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\cvextern.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\opencv_videoio_ffmpeg455_64.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\concrt140.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\msvcp140.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\msvcp140_1.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\msvcp140_2.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\msvcp140_atomic_wait.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\msvcp140_codecvt_ids.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\vcruntime140.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\vcruntime140_1.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\Operations.dll
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\bin\x64\Debug\Operations.pdb
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.Form1.resources
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.Properties.Resources.resources
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.csproj.CopyComplete
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.exe
+C:\Users\Alex\Desktop\lab-editare\lab-editare\Lab6\obj\x64\Debug\Lab6.pdb
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\Lab6.exe.config
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\Lab6.exe
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\Lab6.pdb
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\cvextern.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\opencv_videoio_ffmpeg455_64.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\concrt140.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\msvcp140.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\msvcp140_1.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\msvcp140_2.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\msvcp140_atomic_wait.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\msvcp140_codecvt_ids.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\vcruntime140.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\vcruntime140_1.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\Operations.dll
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\bin\x64\Debug\Operations.pdb
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\x64\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\x64\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\x64\Debug\Lab6.Form1.resources
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\x64\Debug\Lab6.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\x64\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\x64\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\x64\Debug\Lab6.csproj.CopyComplete
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\x64\Debug\Lab6.exe
+C:\Users\Alex\Documents\GitHub\Laborator_EVA\Lab6\obj\x64\Debug\Lab6.pdb
